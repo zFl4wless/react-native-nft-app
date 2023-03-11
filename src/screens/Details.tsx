@@ -1,6 +1,6 @@
 import { Text } from 'react-native';
 
-const Details = () => {
+const Details = ({ data }) => {
     return <Text>Details</Text>;
 };
 
